@@ -1,1 +1,1 @@
-# curso-dio-vto-java-intellij
+# Curso DIO: Variáveis, Tipos de Dados e Operadores Matemáticos em Javavto - IntelliJ
